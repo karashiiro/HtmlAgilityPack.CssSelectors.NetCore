@@ -5,8 +5,8 @@
     <AssemblyTitle>Unofficial fork of HtmlAgilityPack.CssSelectors.NetCore with patches. If the official version of the package was released more recently than this, please use that instead.</AssemblyTitle>
     <Authors>karashiiro,Thibaut Renoncourt</Authors>
     <TargetFrameworks>netstandard2.0;netstandard1.5</TargetFrameworks>
-    <AssemblyName>HtmlAgilityPack.CssSelectors.NetCoreFork</AssemblyName>
-    <PackageId>HtmlAgilityPack.CssSelectors.NetCoreFork</PackageId>
+    <AssemblyName>Karashiiro.HtmlAgilityPack.CssSelectors.NetCoreFork</AssemblyName>
+    <PackageId>Karashiiro.HtmlAgilityPack.CssSelectors.NetCoreFork</PackageId>
     <PackageTags>HtmlAgilityPack;HtmlAgilityPack.NetCore;Css</PackageTags>
     <PackageProjectUrl>https://github.com/karashiiro/HtmlAgilityPack.CssSelectors.NetCore</PackageProjectUrl>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
