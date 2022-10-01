@@ -30,7 +30,7 @@ namespace HtmlAgilityPack.CssSelectors.NetCore
         {
             var rt = new Dictionary<string, PseudoClass>(StringComparer.OrdinalIgnoreCase);
             
-            var types = Assembly.Load(new AssemblyName("HtmlAgilityPack.CssSelectors.NetCore")).GetTypes().Where(i => !i.GetTypeInfo().IsAbstract && i.GetTypeInfo().IsSubclassOf(typeof(PseudoClass)));
+            var types = Assembly.Load(new AssemblyName("Karashiiro.HtmlAgilityPack.CssSelectors.NetCoreFork")).GetTypes().Where(i => !i.GetTypeInfo().IsAbstract && i.GetTypeInfo().IsSubclassOf(typeof(PseudoClass)));
             types = types.OrderBy(i => Equals(i.GetTypeInfo().Assembly, typeof(PseudoClass).GetTypeInfo().Assembly) ? 0 : 1).ToList();
 
             foreach (var type in types)

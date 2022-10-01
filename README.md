@@ -1,4 +1,4 @@
-# HtmlAgilityPack.CssSelectors.NetCoreFork &middot; [![NuGet](https://img.shields.io/nuget/dt/HtmlAgilityPack.CssSelectors.NetCoreFork.svg?style=flat-square)](https://www.nuget.org/packages/HtmlAgilityPack.CssSelectors.NetCore) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/karashiiro/HtmlAgilityPack.CssSelectors.NetCore/blob/master/LICENSE)
+# HtmlAgilityPack.CssSelectors.NetCoreFork &middot; [![NuGet](https://img.shields.io/nuget/dt/Karashiiro.HtmlAgilityPack.CssSelectors.NetCoreFork.svg?style=flat-square)](https://www.nuget.org/packages/HtmlAgilityPack.CssSelectors.NetCore) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/karashiiro/HtmlAgilityPack.CssSelectors.NetCore/blob/master/LICENSE)
 Unofficial fork of HtmlAgilityPack.CssSelectors.NetCore with patches. If the official version of the package was released more recently than this, please use that instead.
 
 > NetStandard version of [HtmlAgilityPack.CssSelector](https://github.com/hcesar/HtmlAgilityPack.CssSelector/blob/master/README.md)
@@ -7,7 +7,7 @@ Unofficial fork of HtmlAgilityPack.CssSelectors.NetCore with patches. If the off
 ### Installation
 
 ```powershell
-Install-Package HtmlAgilityPack.CssSelectors.NetCoreFork
+Install-Package Karashiiro.HtmlAgilityPack.CssSelectors.NetCoreFork
 ```
 
 ### Usage
