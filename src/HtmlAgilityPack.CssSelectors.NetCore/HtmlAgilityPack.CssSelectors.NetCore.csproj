@@ -1,18 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Description>.Net Core version of HtmlAgilityPack.CssSelector which use the .Net Core version of HtmlAgilityPack</Description>
-    <AssemblyTitle>.Net Core version of HtmlAgilityPack.CssSelector which use the .Net Core version of HtmlAgilityPack</AssemblyTitle>
-    <Authors>Thibaut Renoncourt</Authors>
+    <Description>Unofficial fork of HtmlAgilityPack.CssSelectors.NetCore with patches. If the official version of the package is newer than this, please use that instead.</Description>
+    <AssemblyTitle>Unofficial fork of HtmlAgilityPack.CssSelectors.NetCore with patches. If the official version of the package is newer than this, please use that instead.</AssemblyTitle>
+    <Authors>karashiiro,Thibaut Renoncourt</Authors>
     <TargetFrameworks>netstandard2.0;netstandard1.5</TargetFrameworks>
-    <AssemblyName>HtmlAgilityPack.CssSelectors.NetCore</AssemblyName>
-    <PackageId>HtmlAgilityPack.CssSelectors.NetCore</PackageId>
+    <AssemblyName>HtmlAgilityPack.CssSelectors.NetCoreFork</AssemblyName>
+    <PackageId>HtmlAgilityPack.CssSelectors.NetCoreFork</PackageId>
     <PackageTags>HtmlAgilityPack;HtmlAgilityPack.NetCore;Css</PackageTags>
-    <PackageProjectUrl>https://github.com/trenoncourt/HtmlAgilityPack.CssSelectors.NetCore</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/karashiiro/HtmlAgilityPack.CssSelectors.NetCore</PackageProjectUrl>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
-    <Version>1.2.1</Version>
+    <Version>0.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
