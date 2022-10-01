@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Description>Unofficial fork of HtmlAgilityPack.CssSelectors.NetCore with patches. If the official version of the package is newer than this, please use that instead.</Description>
-    <AssemblyTitle>Unofficial fork of HtmlAgilityPack.CssSelectors.NetCore with patches. If the official version of the package is newer than this, please use that instead.</AssemblyTitle>
+    <Description>Unofficial fork of HtmlAgilityPack.CssSelectors.NetCore with patches. If the official version of the package was released more recently than this, please use that instead.</Description>
+    <AssemblyTitle>Unofficial fork of HtmlAgilityPack.CssSelectors.NetCore with patches. If the official version of the package was released more recently than this, please use that instead.</AssemblyTitle>
     <Authors>karashiiro,Thibaut Renoncourt</Authors>
     <TargetFrameworks>netstandard2.0;netstandard1.5</TargetFrameworks>
     <AssemblyName>HtmlAgilityPack.CssSelectors.NetCoreFork</AssemblyName>
